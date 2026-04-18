@@ -4,17 +4,17 @@
 
 ## 🌦️ Weather
 
-* 30.4°C, scattered clouds
-  👉 Insight: Hot day
+* 29.99°C, scattered clouds
+  👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Former Cherokee County deputy sentenced for child exploitation
-* Mercedes-Benz Faces Global Sales Dip
-* Asus Zenwifi XD5 AX3000 Wi-Fi 6 Mesh Router: 3-Pack $259, 2-Pack $159 Delivered @ Amazon AU
-* Newest “Inside Killeen” episode explores Killeen business growth and the AI frontier
-* What was the first OS you ever used?
+* US and Cuban officials met recently in Havana amid new diplomatic push
+* US and Cuban officials met recently in Havana amid new diplomatic push
+* Kookmin University and UBC researchers propose safety framework for generative AI image and video controls
+* Grade 5 Titanium, D2 Steel, Smaller Than An AirPod: The Natanto Folding Knife Has Nothing Left to Prove
+* Agents are rewriting the rules of security. Here’s what engineering needs to know.
 
 ## 📊 Insights
 
-* No strong trend (1 mentions)
+* No strong trend (2 mentions)
