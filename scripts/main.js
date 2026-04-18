@@ -6,7 +6,8 @@ const WEATHER_API = process.env.WEATHER_API;
 const NEWS_API = process.env.NEWS_API;
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'output');
-const REPORT_FILE = path.join(OUTPUT_DIR, 'report.md');
+const REPORTS_DIR = path.join(OUTPUT_DIR, 'reports');
+const LATEST_FILE = path.join(OUTPUT_DIR, 'latest.md');
 
 async function fetchWeather() {
   if (!WEATHER_API) {
@@ -66,8 +67,7 @@ async function fetchNews() {
   return { headlines, aiCount, trendResult };
 }
 
-function generateReport(weatherData, newsData) {
-  const currentDate = new Date().toISOString().split('T')[0];
+function generateReport(weatherData, newsData, currentDate) {
 
   let headlinesList = newsData.headlines.map(h => `* ${h}`).join('\n');
   if (!headlinesList) {
@@ -83,9 +83,9 @@ async function main() {
   try {
     console.log("Starting smart-automation-tracker...");
 
-    if (!fs.existsSync(OUTPUT_DIR)) {
-      console.log(`Creating output directory at ${OUTPUT_DIR}`);
-      fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+    if (!fs.existsSync(REPORTS_DIR)) {
+      console.log(`Creating reports directory at ${REPORTS_DIR}`);
+      fs.mkdirSync(REPORTS_DIR, { recursive: true });
     }
 
     console.log("Fetching weather data...");
@@ -95,10 +95,14 @@ async function main() {
     const newsData = await fetchNews();
 
     console.log("Generating report...");
-    const reportContent = generateReport(weatherData, newsData);
+    const currentDate = new Date().toISOString().split('T')[0];
+    const reportContent = generateReport(weatherData, newsData, currentDate);
 
+    const REPORT_FILE = path.join(REPORTS_DIR, `${currentDate}.md`);
     fs.writeFileSync(REPORT_FILE, reportContent, 'utf-8');
+    fs.writeFileSync(LATEST_FILE, reportContent, 'utf-8');
     console.log(`Successfully generated report at ${REPORT_FILE}`);
+    console.log(`Successfully updated latest report at ${LATEST_FILE}`);
 
   } catch (error) {
     console.error("Error running script:", error.message);
