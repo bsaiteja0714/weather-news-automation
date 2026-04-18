@@ -1,0 +1,11 @@
+{
+  "name": "smart-automation-tracker",
+  "version": "1.0.0",
+  "description": "An automated system that fetches weather data and tech news, analyzes it, and generates a daily report.",
+  "scripts": {
+    "start": "node scripts/main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

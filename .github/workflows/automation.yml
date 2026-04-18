@@ -1,0 +1,35 @@
+name: Automation Tracker
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs daily at 08:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  run-automation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run main script
+        env:
+          WEATHER_API: ${{ secrets.WEATHER_API }}
+          NEWS_API: ${{ secrets.NEWS_API }}
+        run: npm start
+
+      - name: Commit and push updated report.md
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add output/report.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily report" && git push)
