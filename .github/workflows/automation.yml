@@ -3,7 +3,10 @@ name: Automation Tracker
 on:
   schedule:
     - cron: '0 8 * * *' # Runs daily at 08:00 UTC
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ THIS FIXES YOUR ERROR
 
 jobs:
   run-automation:
