@@ -4,17 +4,17 @@
 
 ## 🌦️ Weather
 
-* 29.99°C, scattered clouds
+* 28.86°C, few clouds
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* US and Cuban officials met recently in Havana amid new diplomatic push
-* US and Cuban officials met recently in Havana amid new diplomatic push
-* Kookmin University and UBC researchers propose safety framework for generative AI image and video controls
-* Grade 5 Titanium, D2 Steel, Smaller Than An AirPod: The Natanto Folding Knife Has Nothing Left to Prove
-* Agents are rewriting the rules of security. Here’s what engineering needs to know.
+* Father of man who inspired Super Mario was also named Luigi, researcher finds - The Guardian
+* Digital access to outpatient letters in Hywel Dda rolls out
+* XRP Rallies Toward $1.50—Expert Cites 3 Dates That Could Decide The Next Direction
+* Elon Musk Tells TSMC’s CEO That Terafab Wouldn’t Exist if the Foundry Could Keep Up With His Chip Demand
+* Cygnet.One Introduces STRATA to Redefine Managed IT Services for Always-On Enterprises
 
 ## 📊 Insights
 
-* No strong trend (2 mentions)
+* No strong trend (0 mentions)
