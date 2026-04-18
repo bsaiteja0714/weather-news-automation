@@ -1,6 +1,6 @@
-# 🤖 Smart Automation Tracker
+# 🌍 Weather News Automation
 
-An automated Node.js system that fetches real-time weather and tech news data, analyzes trends, and generates a daily markdown report. Powered by GitHub Actions for fully automated execution.
+An automated Node.js system that fetches real-time weather data and technology news, analyzes trends, and generates a daily markdown report. Powered by GitHub Actions for fully automated execution.
 
 ---
 
@@ -10,10 +10,10 @@ An automated Node.js system that fetches real-time weather and tech news data, a
   Retrieves real-time weather data using OpenWeatherMap API.
 
 - 📰 **Tech News Fetching**  
-  Collects latest technology headlines using GNews API.
+  Collects the latest technology headlines using GNews API.
 
-- 🧠 **Data Analysis**  
-  Detects trends such as AI mentions in news headlines.
+- 🧠 **Basic Trend Analysis**  
+  Detects patterns such as AI mentions in news headlines.
 
 - 📄 **Automated Reporting**  
   Generates a structured markdown report daily.
@@ -26,17 +26,13 @@ An automated Node.js system that fetches real-time weather and tech news data, a
 ## 📂 Project Structure
 
 
-smart-automation-tracker/
-│
+.
 ├── scripts/ # Core logic (API fetch + analysis)
 │ └── main.js
-│
 ├── output/ # Generated reports
 │ └── report.md
-│
 ├── .github/workflows/ # GitHub Actions automation
 │ └── automation.yml
-│
 ├── package.json # Dependencies
 └── README.md
 
@@ -45,41 +41,40 @@ smart-automation-tracker/
 
 ## ▶️ Run Locally
 
-### 1. Clone the repo
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-automation-tracker.git
-cd smart-automation-tracker
+git clone https://github.com/YOUR_USERNAME/weather-news-automation.git
+cd weather-news-automation
 2. Install dependencies
 npm install
-3. Set API keys (temporary local use)
-export WEATHER_API=your_key
-export NEWS_API=your_key
-
-(Windows PowerShell)
-
+3. Set environment variables
+Windows (PowerShell)
 $env:WEATHER_API="your_key"
 $env:NEWS_API="your_key"
+macOS / Linux
+export WEATHER_API=your_key
+export NEWS_API=your_key
 4. Run the script
 node scripts/main.js
 🔐 Environment Variables
-
-This project uses:
-
-WEATHER_API → OpenWeatherMap API key
-NEWS_API → GNews API key
+Variable	Description
+WEATHER_API	OpenWeatherMap API key
+NEWS_API	GNews API key
 🤖 Automation (GitHub Actions)
 Runs automatically every day
-Fetches fresh data
+Fetches fresh weather and news data
 Updates output/report.md
 Commits changes to the repository
 
-Manual run also available via:
+You can also trigger it manually:
 
 Actions → Run workflow
-📊 Sample Output
-# 🌍 Smart Daily Report
 
-📅 2026-04-17
+📊 Sample Output
+# 🌍 Daily Report
+
+📅 2026-04-18
 
 ## 🌦️ Weather
 - 30°C, scattered clouds  
