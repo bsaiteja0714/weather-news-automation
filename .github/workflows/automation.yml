@@ -33,6 +33,6 @@ jobs:
       - name: Commit and push updated report.md
         run: |
           git config --global user.name "Sai Teja"
-          git config --global user.email "bsaiteja0714@users.noreply.github.com"
+          git config --global user.email "221491079+bsaiteja0714@users.noreply.github.com"
           git add output/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily report" && git push)
