@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-10-19
+📅 2026-10-20
 
 ## 🌦️ Weather
 
-* 28.44°C, overcast clouds
+* 27.93°C, very heavy rain
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Anthropic signs first Canada data center lease
-* Bharti Airtel becomes first Indian telco to launch voice-only tariffs after TRAI mandate
-* Renters: This Is How To Upgrade Your House Without Losing Your Bond
-* The $3.5 trillion man? Wall Street thinks Elon Musk is ready to launch a Tesla-SpaceX merger 'within weeks'
-* Are you being ripped off at the checkout? The hidden pricing tactic that could cost shoppers more - and how to protect your wallet
+* What documents does an SMSF borrowing arrangement need? - Kalkine Media
+* How do members roll existing super into a new SMSF? - Kalkine Media
+* Samsung Brings Art Basel Paris Works to Its TVs
+* DRM lays foundation stone for new integrated control office
+* What are the limits of online SMSF calculators? - Kalkine Media
 
 ## 📊 Insights
 
-* No strong trend (1 mentions)
+* No strong trend (0 mentions)
