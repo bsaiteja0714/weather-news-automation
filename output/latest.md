@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-10-21
+📅 2026-10-22
 
 ## 🌦️ Weather
 
-* 27.59°C, light rain
+* 28.6°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Celltrion Expands European Business Through Broader Distribution Networks and Product Diversification
-* Memory chip inflation accelerates smartphone brands' retreat from low-end devices
-* Ovwer 50% Off Beet Supplements on Amazon | Supports Heart Health, Circulation & Energy
-* SEC offices to get e-waste collection bins under PLDT-Smart deal
-* Musk confirms SpaceX and Tesla exploring merger
+* Is Telstra (ASX:TLS) Riding a Telco Bounce Out of Tech? - Kalkine Media
+* AP News Summary at 9:20 p.m. EDT
+* Crew Connect Global: Day 2 Wrap-Up - AI, training gaps, and the future of seafarer careers
+* IBM Q3 results: Tech behemoth records 5% sales growth, raises annual software revenue outlook
+* OPM illegally shared millions of employee records with DOGE, federal judge rules
 
 ## 📊 Insights
 
-* No strong trend (0 mentions)
+* No strong trend (2 mentions)
