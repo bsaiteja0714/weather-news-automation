@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-10-22
+📅 2026-10-23
 
 ## 🌦️ Weather
 
-* 28.6°C, mist
+* 28.37°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Is Telstra (ASX:TLS) Riding a Telco Bounce Out of Tech? - Kalkine Media
-* AP News Summary at 9:20 p.m. EDT
-* Crew Connect Global: Day 2 Wrap-Up - AI, training gaps, and the future of seafarer careers
-* IBM Q3 results: Tech behemoth records 5% sales growth, raises annual software revenue outlook
-* OPM illegally shared millions of employee records with DOGE, federal judge rules
+* HID joins FIDO Alliance board as passkeys gain traction
+* Gen Z Diary: Last-minute cancelling didn't exist before mobiles — it's important to show up
+* Websites down: what is PHP and how has it raised AI hacking fears?
+* Daily Buzz: 23 October 2026
+* The iGarden K70 AI Pool Cleaner Now Available with US$600 Black Friday Savings and Two Bonus Gift Packages
 
 ## 📊 Insights
 
-* No strong trend (2 mentions)
+* AI is trending (4 mentions)
