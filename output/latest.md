@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-10-29
+📅 2026-10-30
 
 ## 🌦️ Weather
 
-* 29.83°C, mist
+* 29.4°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* My Hydra fix passed every test. A few lines of YAML proved it wrong.
-* Major website security flaws prompt retail warning
-* Tesla Wins Lawsuit in South Korea Over FSD Feature Delays
-* XAUUSD — Sellers Still Hold the Advantage in the Downtrend
-* How to compress an image to an exact KB limit in the browser (canvas, binary search, and when to stop lowering quality)
+* ANZ Raises Oil Price Forecast as Market Tightens on Iran War
+* Reddit Is About to Make Its Website Worse to Protect It From AI
+* India's Small Investors Dump Stocks, Chase New Listings
+* Red Sox Trade Shortstop to AL Rival in Sudden Move
+* Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street
 
 ## 📊 Insights
 
-* No strong trend (1 mentions)
+* No strong trend (2 mentions)
