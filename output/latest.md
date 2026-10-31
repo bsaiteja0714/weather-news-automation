@@ -1,19 +1,19 @@
 # 🌍 Smart Daily Report
 
-📅 2026-10-30
+📅 2026-10-31
 
 ## 🌦️ Weather
 
-* 29.4°C, mist
+* 29.24°C, haze
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* ANZ Raises Oil Price Forecast as Market Tightens on Iran War
-* Reddit Is About to Make Its Website Worse to Protect It From AI
-* India's Small Investors Dump Stocks, Chase New Listings
-* Red Sox Trade Shortstop to AL Rival in Sudden Move
-* Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street
+* Build Your Own NAS for Cheaper Scalable Storage
+* Cognizant sets up OpenAI Frontier Capability Group to help enterprises deploy AI at scale
+* PM Modi congratulates ISRO after NVS-03 launch, says 'our space scientists continue to make nation proud'
+* Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
+* OpenAI, Microsoft Copyright Feud Spurs Wave Of Amici Briefs
 
 ## 📊 Insights
 
