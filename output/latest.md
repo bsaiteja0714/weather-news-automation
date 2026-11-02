@@ -1,19 +1,19 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-01
+📅 2026-11-02
 
 ## 🌦️ Weather
 
-* 28.59°C, mist
+* 24.7°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Tom Brady Launches $39 Aescape Robot Massage
-* A KDE developer reveals Kwi, a GPU-accelerated terminal built on Ghostty's library
-* Commercial LPG Cylinder Prices Hiked By Rs 10 Ahead Of Diwali; Check City-Wise Rates
-* FBI says North Korea behind $6 billion crypto theft from Binance
-* Two US senators write letter to Google CEO Sundar Pichai asking 9 questions as company pushes for AI in classrooms
+* Pankaj Fabricators Launches Fab ERP, Built From 48 Years of Making Things in Jaipur
+* China to Write Party Activity Into Big Tech Charters
+* Bharatiya Vayuyan Niyam 2026 To Start On January 1
+* Beyond Binance: 5 cyberattacks that sent shockwaves through world of financial
+* EyeglassesNow Announces November 2026 Launch of Same-Day Prescription Glasses Concept in North ...
 
 ## 📊 Insights
 
