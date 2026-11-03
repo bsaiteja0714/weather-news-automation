@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-02
+📅 2026-11-03
 
 ## 🌦️ Weather
 
-* 24.7°C, mist
+* 27.05°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Pankaj Fabricators Launches Fab ERP, Built From 48 Years of Making Things in Jaipur
-* China to Write Party Activity Into Big Tech Charters
-* Bharatiya Vayuyan Niyam 2026 To Start On January 1
-* Beyond Binance: 5 cyberattacks that sent shockwaves through world of financial
-* EyeglassesNow Announces November 2026 Launch of Same-Day Prescription Glasses Concept in North ...
+* AI isn't the next cloud. Don't let it outgrow IT
+* AI isn't the next cloud. Don't let it outgrow IT
+* AI isn't the next cloud. Don't let it outgrow IT
+* Warzone Season 1 Roadmap Brings New Maps and More to MW4 - Beebom
+* Australia AI data centre faces approval delay
 
 ## 📊 Insights
 
-* No strong trend (1 mentions)
+* AI is trending (4 mentions)
