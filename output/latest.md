@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-04
+📅 2026-11-05
 
 ## 🌦️ Weather
 
-* 28.19°C, mist
+* 27.85°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* USI unveils Wi Fi 8 roadmap for artificial intelligence devices
-* Hyundai, Kia post record Oct sales in US over hybrid, EV demand
-* Energy Insiders special: The new battery chemistry targeting long duration storage
-* Polestar Postpones Q3 Results Two Days Out Amid Mounting Pressure
-* Canva layoffs and the AI question: Why a design giant is cutting 22 percent of staff without once naming AI
+* Solar Defence Exports 1,000 Guided Pinaka Rockets To Armenia In Major Defence Milestone
+* Telecel champions inclusivity at Disability Inclusive Hackathon 2026
+* GEBE moving from stability towards reliability: agreements signed for three Wärtsilä generators
+* High fuel prices hit the brakes on petrol car sales
+* High fuel prices hit the brakes on petrol car sales
 
 ## 📊 Insights
 
-* No strong trend (2 mentions)
+* No strong trend (0 mentions)
