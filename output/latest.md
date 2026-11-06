@@ -1,19 +1,19 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-05
+📅 2026-11-06
 
 ## 🌦️ Weather
 
-* 27.85°C, mist
+* 26.97°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Solar Defence Exports 1,000 Guided Pinaka Rockets To Armenia In Major Defence Milestone
-* Telecel champions inclusivity at Disability Inclusive Hackathon 2026
-* GEBE moving from stability towards reliability: agreements signed for three Wärtsilä generators
-* High fuel prices hit the brakes on petrol car sales
-* High fuel prices hit the brakes on petrol car sales
+* Can Qantas (ASX:QAN) Weather a Costly Fuel Shock? - Kalkine Media
+* ATO quietly pulls family trust tax info from website
+* Participants of Conference in Astana Adopt Statement on Cybercrime
+* The paper 100 years ago
+* OpenSSH auth bypass bug hits Alpine Linux, OperWRT
 
 ## 📊 Insights
 
