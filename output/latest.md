@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-06
+📅 2026-11-07
 
 ## 🌦️ Weather
 
-* 26.97°C, mist
+* 27.89°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Can Qantas (ASX:QAN) Weather a Costly Fuel Shock? - Kalkine Media
-* ATO quietly pulls family trust tax info from website
-* Participants of Conference in Astana Adopt Statement on Cybercrime
-* The paper 100 years ago
-* OpenSSH auth bypass bug hits Alpine Linux, OperWRT
+* WEST VIRGINIA 91, STETSON 53
+* Infosys, Wipro, TCS and other IT stocks rise up to 3% as US AI rout deepens; is the bubble bursting?
+* Read your horoscope for November 7, 2026.
+* SRMIST Opens Applications for SRMJEE 2027 Across Engineering & Technology
+* US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy
 
 ## 📊 Insights
 
-* No strong trend (0 mentions)
+* No strong trend (1 mentions)
