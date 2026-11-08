@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-07
+📅 2026-11-08
 
 ## 🌦️ Weather
 
-* 27.89°C, mist
+* 24.85°C, drizzle
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* WEST VIRGINIA 91, STETSON 53
-* Infosys, Wipro, TCS and other IT stocks rise up to 3% as US AI rout deepens; is the bubble bursting?
-* Read your horoscope for November 7, 2026.
-* SRMIST Opens Applications for SRMJEE 2027 Across Engineering & Technology
-* US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy
+* TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026
+* TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026
+* TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026
+* TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026
+* TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026
 
 ## 📊 Insights
 
-* No strong trend (1 mentions)
+* AI is trending (5 mentions)
