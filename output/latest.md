@@ -1,19 +1,19 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-12
+📅 2026-11-13
 
 ## 🌦️ Weather
 
-* 26.67°C, mist
+* 27.51°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Syuzanna Sarkisyan: Building AI Voice Technology While Embracing the Importance of Balance
-* Japan’s Earnings Split: Resonac Pops, Nissan Slips
-* SAP Ariba Procure to Order 2611 Release Key Innovations
-* Best AI Support Tool Stacks for SaaS, Clinics & Online Course Sellers
-* Aedan Looking Glass and Magnom Properties announce US$750mln Pinnacle Data Center at Forbes International Tower, Egypt
+* Microsoft works to restore Outlook and Teams after global outage
+* Global Microsoft Outage Disrupts Outlook, Microsoft 365, Copilot, and OneDrive Across 74 Countries
+* Microsoft outage disrupts users across the globe
+* How AI rivals are becoming investors, suppliers and customers to one another | Explained
+* PM Modi to inaugurate Bengaluru metro pink line stretch today; check routes, fares - details
 
 ## 📊 Insights
 
