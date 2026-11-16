@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-15
+📅 2026-11-16
 
 ## 🌦️ Weather
 
-* 26.21°C, mist
+* 25.77°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* AP News Summary at 10:11 p.m. EST
-* US Air Travel Should Normalise Sunday After Ground Stop Triggers Mass Cancellations: FAA
-* US sports scramble back to normal after FAA ground stop upends team travel
-* SpaceX Pulls Off Historic First-Ever Starship Upper Stage ‘Catch’ at Starbase After 22-Hour Orbital Mission
-* Windows 11’s new previews give Search more chores and right-click menus more choices
+* Webzen Unveils Cosplay Photoshoot for G-STAR 2026 Lineup
+* New licensing rules set to affect learner drivers from 2027
+* Rethinking Embedded Computing for Robotics & Automation
+* WhatsApp Adds Events Home Hub and Guest RSVPs for Users Without Accounts
+* G-STAR 2026 Unveils Bird's-Eye Showcase Renderings for Exhibition Center 2
 
 ## 📊 Insights
 
-* No strong trend (1 mentions)
+* No strong trend (0 mentions)
