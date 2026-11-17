@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-16
+📅 2026-11-17
 
 ## 🌦️ Weather
 
-* 25.77°C, mist
+* 26.18°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Webzen Unveils Cosplay Photoshoot for G-STAR 2026 Lineup
-* New licensing rules set to affect learner drivers from 2027
-* Rethinking Embedded Computing for Robotics & Automation
-* WhatsApp Adds Events Home Hub and Guest RSVPs for Users Without Accounts
-* G-STAR 2026 Unveils Bird's-Eye Showcase Renderings for Exhibition Center 2
+* Norton Atlas And Manx R Patents Filed In India Ahead Of 2027 Launch
+* 2027 Bajaj Pulsar RS200 Testing Continues – New Spy Shots
+* Türkiye wins seventh straight term on UN telecom council
+* China is hosting the world’s leaders in its AI wonderland. Here’s what they won’t see
+* How to Install JDK in Windows 11
 
 ## 📊 Insights
 
-* No strong trend (0 mentions)
+* No strong trend (2 mentions)
