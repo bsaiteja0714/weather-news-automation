@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-17
+📅 2026-11-18
 
 ## 🌦️ Weather
 
-* 26.18°C, mist
+* 26.36°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Norton Atlas And Manx R Patents Filed In India Ahead Of 2027 Launch
-* 2027 Bajaj Pulsar RS200 Testing Continues – New Spy Shots
-* Türkiye wins seventh straight term on UN telecom council
-* China is hosting the world’s leaders in its AI wonderland. Here’s what they won’t see
-* How to Install JDK in Windows 11
+* Monroe Police follow Snapchat tip, arrest 19-year-old on child sex abuse materials charges
+* Nvidia Revenue Hits $115.8 Billion as Margins and CEO Transition Raise New Questions
+* Lotte Biologics Completes Songdo Plant 1, Accelerates Global CDMO Market Expansion
+* Raj Police's crackdown on drone smuggling; identify 28 Pakistani handlers
+* Voyager 1 Makes History, Reaches One Light-Day from Earth
 
 ## 📊 Insights
 
-* No strong trend (2 mentions)
+* No strong trend (1 mentions)
