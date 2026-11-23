@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-22
+📅 2026-11-23
 
 ## 🌦️ Weather
 
-* 26.69°C, mist
+* 24.99°C, drizzle
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* FPI buying in Indian markets a structural shift away from AI-related stocks
-* South Korea education chief resigns amid AI cheating scandal
-* SunPower: 3 Key Takeaways for Long-Term Investors
-* S. Korean education minister offers to resign
-* Kevin O’Leary Says ‘The Bank of NVIDIA Is Closed’ as AI Data Center Boom Faces Scrutiny
+* LKAB and Stegra extend collaboration on iron ore pellet supply and testing
+* Gujarat: Nine new civic bodies to get govt land free for civic infrastructure
+* Livguard Showcases Sart Lithium Batteries At REI 2026
+* VCDoctor Announces 20% Black Friday Discount on Software Development Services
+* Battery fire risk warning amid Christmas tech buying boom
 
 ## 📊 Insights
 
-* AI is trending (3 mentions)
+* No strong trend (0 mentions)
