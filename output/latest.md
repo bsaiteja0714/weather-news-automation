@@ -1,20 +1,20 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-24
+📅 2026-11-25
 
 ## 🌦️ Weather
 
-* 26.69°C, mist
+* 27.2°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* New Anthropic Claude Design Helps You Avoid Generic AI Creations
-* Pinterest brings AI-powered discovery to Microsoft ad buyers
-* Our View: Slow down data center growth until Arizona has better safeguards
-* CrowdStrike to acquire Zscaler in $43.9 billion all-stock deal to expand Zero Trust security and AI protection
-* Hero VIDA VX2 Vs Ola S1 Pro: Which Electric Scooter Should You Bring Home?
+* Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US
+* The UK Cyber Security & Resilience Bill: What Organisations Should Be Doing Now
+* How Daniel Zeltser cold-emailed his way to employee #2 at Beacon Health
+* Cambridge: Unhappy with VMware? Just talk to Broadcom instead of moaning
+* AAGO Launches MAGFIT 10000mAh Magnetic Wireless Power Bank with 15W Wireless and 22.5W Wired Charging
 
 ## 📊 Insights
 
-* AI is trending (3 mentions)
+* No strong trend (1 mentions)
