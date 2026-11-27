@@ -1,19 +1,19 @@
 # 🌍 Smart Daily Report
 
-📅 2026-11-26
+📅 2026-11-27
 
 ## 🌦️ Weather
 
-* 27.51°C, light rain
+* 27.17°C, mist
   👉 Insight: Moderate weather
 
 ## 📰 Tech News
 
-* Royal Enfield Announces Rs 1,000 Crore Investment In Tamil Nadu: Here's Why
-* LiuGong Showcases Advanced Equipment and Intelligent Technologies at bauma CHINA 2026
-* A Little Play, A Little Wonder: Celebrate 12 Days of Padma Festivities
-* A 100-inch TV for under $1,000? Only for Costco members
-* 2026-11-26T06:00:57+00:00
+* Flight Centre (ASX:FLT): How Is the ASX 200 Travel Group Responding to a Data Incident? - Kalkine Media
+* Visa and NBX plan stablecoin-linked payment card
+* First Graphene Secures Unanimous Approval on All 2026 AGM Resolutions, Including Special Resolution 3 - Kalkine Media
+* In 1984, Seiko put a 2,000-character computer on your wrist; entering notes required a separate controller or optional keyboard
+* Samsung Messages could soon find, send, and forward texts for you
 
 ## 📊 Insights
 
